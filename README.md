@@ -11,9 +11,12 @@ Football clubs and analysts often face challenges in identifying suitable player
 - Performed feature engineering and normalization on player statistics
 - Applied PCA (Principal Component Analysis) for dimensionality reduction
 - Implemented K-Means clustering to identify player archetypes
-- Utilized DBSCAN clustering to discover naturally occurring player groups
+- Implemented DBSCAN clustering to discover density-based player groups and detect outliers
+- Compared the performance of K-Means and DBSCAN clustering techniques on the football player dataset
+- Evaluated cluster quality, interpretability, and suitability for player segmentation
+- Selected K-Means as the primary clustering method due to its ability to generate clearer and more meaningful player groups
 - Built a similarity engine to recommend statistically similar players
-- Visualized player clusters and performance patterns for easier interpretation
+- Visualized player clusters and performance patterns for scouting analysis
 
 ## Tech Stack
 - Python
@@ -24,11 +27,11 @@ Football clubs and analysts often face challenges in identifying suitable player
 - Seaborn
 
 ## Results
-Successfully grouped players into meaningful performance-based clusters
-Identified player archetypes using unsupervised learning techniques
-Generated similarity recommendations for scouting and recruitment purposes
-Reduced data complexity while preserving key performance characteristics through PCA
-Provided actionable insights for player analysis and decision-making
+- Successfully grouped players into meaningful performance-based clusters
+- Identified player archetypes using unsupervised learning techniques
+- Generated similarity recommendations for scouting and recruitment purposes
+- Reduced data complexity while preserving key performance characteristics through PCA
+- Provided actionable insights for player analysis and decision-making
 
 ## Future Improvements
 Integrate advanced similarity metrics and recommendation systems
