@@ -34,8 +34,8 @@ Football clubs and analysts often face challenges in identifying suitable player
 - Provided actionable insights for player analysis and decision-making
 
 ## Future Improvements
-Integrate advanced similarity metrics and recommendation systems
-Add support for real-time player data updates
-Develop an interactive web dashboard for scouting reports
-Incorporate player market value and transfer analysis
-Expand analysis to multiple leagues and seasons
+- Integrate advanced similarity metrics and recommendation systems
+- Add support for real-time player data updates
+- Develop an interactive web dashboard for scouting reports
+- Incorporate player market value and transfer analysis
+- Expand analysis to multiple leagues and seasons
